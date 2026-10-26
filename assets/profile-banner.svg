@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
+  <title id="title">Maron C. Javier — Electronics Engineering Graduate</title>
+  <desc id="description">A navy and teal banner with a stylized integrated circuit. Interests: microelectronics, IC layout, and embedded systems.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#101f31"/>
+      <stop offset="1" stop-color="#09131f"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#a4c6d9" stroke-opacity=".055"/>
+    </pattern>
+    <linearGradient id="chip" x2="1" y2="1">
+      <stop stop-color="#143b49"/>
+      <stop offset="1" stop-color="#102632"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="360" rx="18" fill="url(#background)"/>
+  <rect width="1200" height="360" rx="18" fill="url(#grid)"/>
+  <path d="M56 60H100" stroke="#62dfca" stroke-width="4"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="56" y="100" fill="#8faabb" font-size="13" font-weight="600" letter-spacing="3">CIRCUITS. LAYOUT. SYSTEMS.</text>
+    <text x="52" y="173" fill="#f3f5ee" font-size="57" font-weight="700" letter-spacing="-1.5">Maron C. Javier</text>
+    <text x="56" y="216" fill="#bdcdd7" font-size="23">Electronics Engineering Graduate</text>
+    <text x="56" y="280" fill="#62dfca" font-size="13" font-weight="600" letter-spacing="1.5">MICROELECTRONICS / IC LAYOUT / EMBEDDED SYSTEMS</text>
+    <text x="56" y="316" fill="#7994a5" font-size="12" letter-spacing="1">TUP MANILA · CLASS OF 2026</text>
+  </g>
+  <!-- Decorative IC layout motif; not a functional circuit diagram. -->
+  <g fill="none" stroke="#62dfca" stroke-width="1.5" stroke-linejoin="round">
+    <g stroke-opacity=".28">
+      <path d="M850 130H797L771 104H728M850 155H750L721 126H697M850 205H791L755 241H716M850 230H814L757 287H712"/>
+      <path d="M1030 130H1070L1105 95H1150M1030 155H1103L1131 127H1200M1030 205H1084L1122 243H1200M1030 230H1061L1121 290H1168"/>
+      <path d="M890 90V64L916 38V0M915 90V73L958 30V0M965 90V59L990 34V0M990 90V67L1057 0"/>
+      <path d="M890 270V302L865 327V360M915 270V321L939 345V360M965 270V298L1007 340V360M990 270V285L1065 360"/>
+    </g>
+    <g stroke-opacity=".7">
+      <path d="M850 130H835M850 155H835M850 180H835M850 205H835M850 230H835M1030 130H1045M1030 155H1045M1030 180H1045M1030 205H1045M1030 230H1045"/>
+      <path d="M890 90V75M915 90V75M940 90V75M965 90V75M990 90V75M890 270V285M915 270V285M940 270V285M965 270V285M990 270V285"/>
+    </g>
+    <rect x="850" y="90" width="180" height="180" rx="10" fill="url(#chip)" stroke-opacity=".65"/>
+    <rect x="864" y="104" width="152" height="152" rx="4" stroke-opacity=".18"/>
+    <g stroke-opacity=".4">
+      <path d="M882 122H941V140H978V122H998V164H969V185H998V235H958V215H939V237H882V204H909V183H882Z"/>
+      <path d="M890 149H927V166H946V198H925V220H897M978 224V198H959V155H991M892 166H912V193M953 122V132"/>
+    </g>
+    <rect x="919" y="163" width="42" height="34" rx="3" fill="#153b46" stroke="#62dfca"/>
+    <circle cx="876" cy="116" r="2.5" fill="#62dfca" stroke="none"/>
+    <g fill="#62dfca" fill-opacity=".65" stroke="none">
+      <circle cx="728" cy="104" r="3"/><circle cx="716" cy="241" r="3"/>
+      <circle cx="1150" cy="95" r="3"/><circle cx="1168" cy="290" r="3"/>
+    </g>
+  </g>
+</svg>
